@@ -1,2 +1,4 @@
 Test file.
-Heool World!
+Hello World!
+
+Hello My Friend!
